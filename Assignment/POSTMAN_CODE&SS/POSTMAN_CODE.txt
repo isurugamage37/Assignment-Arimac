@@ -1,0 +1,20 @@
+Insert product
+1)http://localhost:8090/product/saveProduct
+
+Insert tax
+2)http://localhost:8090/tax/saveTax
+
+insert promotion
+3)http://localhost:8090/promotion/savePromotion
+
+Get all customers
+4)http://localhost:8090/customer/getAllCustomers
+
+Get all products
+5)http://localhost:8090/product/getAllProducts
+
+InsertAdmin
+6)http://localhost:8090/admin/saveAdmin
+
+Insert Customer
+7)http://localhost:8090/customer/saveCustomer
